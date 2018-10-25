@@ -1,0 +1,164 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp" >
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbarThumbVertical="@null"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:paddingBottom="60dp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/abtreportgradient"
+                android:text="About App" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:gravity="center"
+                android:layout_marginBottom="20dp"
+                android:text="@string/about_app" />
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:gravity="center"
+                    android:textSize="16sp"
+                    android:layout_marginBottom="5dp"
+                    android:background="@drawable/abtreportgradient"
+                    android:text="Developers" />
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp">
+                <TableRow
+                    android:gravity="center">
+                    <TextView
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="HAZIQ HAIKAL BIN AYUB" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="SN0101643" />
+                </TableRow>
+                <TableRow
+                    android:gravity="center">
+                    <TextView
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="SUFIAN HAKIM BIN SUADI" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="SN0101618" />
+                </TableRow>
+                <TableRow
+                    android:gravity="center">
+                    <TextView
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="ARFAN BIN ABDUL RAZAK" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="SN0101645" />
+                </TableRow>
+                <TableRow
+                    android:gravity="center">
+                    <TextView
+                        android:layout_width="260dp"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="LIYANA MUSFIRAH BINTI MOHD ARIFF" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="SN0101681" />
+                </TableRow>
+                <TableRow
+                    android:gravity="center">
+                    <TextView
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="ANIS SYAMINA BINTI KHAIRULZAMAN" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="14sp"
+                        android:text="SN0101652" />
+                </TableRow>
+            </TableLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/abtreportgradient"
+                android:text="Course" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="7"
+                android:textSize="14sp"
+                android:gravity="center"
+                android:layout_marginBottom="20dp"
+                android:text="CSNB544 Mobile Application Development" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:gravity="center"
+                android:textSize="16sp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/abtreportgradient"
+                android:text="Lecturer" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="7"
+                android:textSize="14sp"
+                android:gravity="center"
+                android:layout_marginBottom="10dp"
+                android:text="Nur Shakirah Md Salleh" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginTop="35dp"
+                android:layout_marginBottom="10dp"
+                android:background="@android:color/darker_gray"/>
+            <Button
+                android:id="@+id/btn_logout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dip"
+                android:textColor="@color/white"
+                android:background="@drawable/mybutton3"
+                android:text="Logout"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

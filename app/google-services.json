@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "794151294272",
+    "firebase_url": "https://unitenors.firebaseio.com",
+    "project_id": "unitenors",
+    "storage_bucket": "unitenors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794151294272:android:130e747c66e61a2d",
+        "android_client_info": {
+          "package_name": "haziqhaikal.picotech.unitenors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794151294272-lk3488l9a5tg0mj33brp1secpuud819f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "haziqhaikal.picotech.unitenors",
+            "certificate_hash": "9119c8727cef2630f722e0f379bfc84c87dca0be"
+          }
+        },
+        {
+          "client_id": "794151294272-5pf5tn21tu5p2hf2r4os1iqkr3he9lvf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "794151294272-cspi3n49mfh0ghsma39ha8pesqd827di.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "794151294272-q37kbilfi3rtrno21l4pm3f2vmae6noe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvCw4Zlmm6mfFJ9tZqrE7PT93iKePv5jI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794151294272-5pf5tn21tu5p2hf2r4os1iqkr3he9lvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

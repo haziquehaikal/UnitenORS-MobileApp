@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">UnitenORS</string>
+    <string name="title_home">Home</string>
+    <string name="title_report">History</string>
+    <string name="title_about">About Us</string>
+
+    <string name="hint_id">Uniten ID</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_book">LOCATE CAR</string>
+    <string name="name">Fullname</string>
+
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_photos">Photos</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when bottom_navigation_items menu item is selected -->
+
+    <string name="spinner_location">Location</string>
+    <string name="spinner_type">Problem Type</string>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="title_location_permission">test</string>
+    <string name="text_location_permission">tssssss</string>
+    <string name="about_app">To ease UNITEN students to make any report which will save a lot of time and it is also an eco friendly application which may save a lot of papers. (2018)</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">EASY</string>
+    <string name="slide_1_desc">The easiest way to make a report with your phone!</string>
+
+    <string name="slide_2_title">ADAPTABLE</string>
+    <string name="slide_2_desc">Adapts to a user\'s needs!</string>
+
+    <string name="slide_3_title">RELIABLE</string>
+    <string name="slide_3_desc">The most reliable customer support we could offer!</string>
+
+    <string name="slide_4_title">ADAPTABLE</string>
+    <string name="slide_4_desc">Adapts to a user\'s needs!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prob_loc">
+        <item>Kelompok Murni</item>
+        <item>Kelompok Ilmu</item>
+        <item>Kelompok Amanah</item>
+        <item>Kelompok Cendikiawan</item>
+        <item>Admin Building</item>
+        <item>CSIT</item>
+        <item>COE</item>
+        <item>CFGS</item>
+        <item>Upten</item>
+        <item>Library</item>
+        <item>Masjid Uniten</item>
+        <item>The loop</item>
+        <item>Student Affair Center</item>
+    </string-array>
+
+
+    <string-array name="prob_type">
+        <item>Infrastructure</item>
+        <item>Student Affairs</item>
+        <item>Security</item>
+        <item>Transportation</item>
+
+    </string-array>
+
+</resources>
